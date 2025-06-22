@@ -63,8 +63,11 @@ summary:     >
 
 
 
-## 🐍 Contribution Snake  
-![Snake animation](./output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="./assets/confetti.gif" alt="Confetti Animation" width="400"/>
+</p>
+
 
 
 
