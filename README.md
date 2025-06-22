@@ -9,6 +9,20 @@
 
 ---
 
+
+
+<!-- ======================= -->
+<!--     Profile Views      -->
+<!-- ======================= -->
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Saksham31-iiitl&color=blue" 
+    alt="Profile views" 
+  />
+</p>
+
+---
+
 <!-- ======================= -->
 <!--       Social Links      -->
 <!-- ======================= -->
