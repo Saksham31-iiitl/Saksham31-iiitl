@@ -65,7 +65,7 @@ summary:     >
 
 
 <p align="center">
-  <img src="./assets/confetti.gif" alt="Confetti Animation" width="400"/>
+  <img src="./assets/confettti" alt="Confetti Animation" width="400"/>
 </p>
 
 
