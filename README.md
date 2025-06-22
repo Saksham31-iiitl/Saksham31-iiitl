@@ -53,22 +53,14 @@ summary:     >
 
 🛠️ Tech & Tools
 <p align="left">
-  <!-- Python stays the same -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-
-  <!-- SQLite stays the same -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
-
-  <!-- Apache Airflow: use "apache-airflow-original" -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-airflow/apache-airflow-original.svg" width="40" height="40" alt="Apache Airflow" />
-
-  <!-- AWS: use "amazonwebservices-original" -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
-
-  <!-- Docker and GitHub stay the same -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28" alt="Python" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="28" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white" height="28" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="28" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28" alt="GitHub" />
 </p>
+
 
 
 ## 🐍 Contribution Snake  
