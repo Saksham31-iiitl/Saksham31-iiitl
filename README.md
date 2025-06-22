@@ -66,7 +66,7 @@ summary:     >
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Saksham31-iiitl/Saksham31-iiitl/main/confetti.gif" 
+    src="https://raw.githubusercontent.com/Saksham31-iiitl/Saksham31-iiitl/main/confettti.gif" 
     alt="Confetti Animation" 
     width="400" />
 </p>
