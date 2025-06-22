@@ -52,7 +52,24 @@ summary:     >
 
 
 🛠️ Tech & Tools
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg" width="40" height="40" alt="Airflow" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40" alt="AWS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /> </p>
+<p align="left">
+  <!-- Python stays the same -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+
+  <!-- SQLite stays the same -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
+
+  <!-- Apache Airflow: use "apache-airflow-original" -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-airflow/apache-airflow-original.svg" width="40" height="40" alt="Apache Airflow" />
+
+  <!-- AWS: use "amazonwebservices-original" -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
+
+  <!-- Docker and GitHub stay the same -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+</p>
+
 
 ## 🐍 Contribution Snake  
 ![Snake animation](./output/github-contribution-grid-snake.svg)
