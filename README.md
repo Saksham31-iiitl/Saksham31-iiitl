@@ -31,7 +31,7 @@
 <!-- ======================= -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=00FFAA&center=true&width=600&lines=Aspiring+Data+Engineer;M.Tech+CS+(Data+Engineering);GATE+2024+96+Percentile" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=00FFAA&center=true&width=600&lines=Aspiring+Data+Engineer;M.Tech+CS+(Data+Science);GATE+2024+96+Percentile" 
     alt="Typing Animation" />
 </p>
 
@@ -65,7 +65,7 @@ summary:     >
 
 
 <p align="center">
-  <img src="./assets/confettti" alt="Confetti Animation" width="400"/>
+  <img src="./assets/confettti.gif" alt="Confetti Animation" width="400"/>
 </p>
 
 
