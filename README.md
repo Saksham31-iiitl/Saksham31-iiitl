@@ -65,15 +65,22 @@ summary:     >
 
 
 
-🛠️ Tech & Tools
+## 🛠️ Tech & Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="28" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="28" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28" alt="Python" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="28" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white" height="28" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apache-airflow&logoColor=white" height="28" alt="Apache Airflow" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="28" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" height="28" alt="CMake" />
+  <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" height="28" alt="JSON" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="28" alt="Linux" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" height="28" alt="VS Code" />
 </p>
+
 
 
 
